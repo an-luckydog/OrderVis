@@ -10,7 +10,7 @@
     - [Order-based Perturbation Analytic View](#order-based-perturbation-analytic-view)
     - [Training Order Pattern View](#training-order-pattern-view)
     - [Multiple-step Reordering Lists](#multiple-step-reordering-lists)
-  - [Implementation](#implementation)
+    - [Implementation](#implementation)
 - [Usage](#usage)
   - [Critical Interface](#critical-interface)
   - [Main function](#main-function)
