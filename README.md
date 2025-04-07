@@ -1,5 +1,21 @@
 # OrderVis: Visual Analytics for Order-Based Text Adversarial Attacks
-[TOC]
+## Table of Contents
+- [Abstract](#abstract)
+- [OrderVis](#ordervis)
+  - [System Overview](#system-overview)
+  - [Visualization Design](#visualization-design)
+    - [Control Panel](#control-panel)
+    - [Word-level Interaction View](#word-level-interaction-view)
+    - [Sentence-level Interaction View](#sentence-level-interaction-view)
+    - [Order-based Perturbation Analytic View](#order-based-perturbation-analytic-view)
+    - [Training Order Pattern View](#training-order-pattern-view)
+    - [Multiple-step Reordering Lists](#multiple-step-reordering-lists)
+  - [Implementation](#implementation)
+- [Usage](#usage)
+  - [Critical Interface](#critical-interface)
+  - [Main function](#main-function)
+    - [Machine learning side (back-end)](#machine-learning-side-back-end)
+    - [Browser side (front-side)](#browser-side-front-side)
 
 ## Abstract
 
@@ -72,7 +88,7 @@ To enable comprehensive comparative analysis of order-based perturbations, Order
 #### Implementation
 
 The popular deep learning library *TensorFlow* is used to build the learning models on the server side of the system, integrated with *Flask* for communication with the web front end. The web interface is developed using *Vue.js*. To enhance visual presentation and aesthetics, we incorporate *vuedraggable* and *Element UI* for layout organization, and utilize *ECharts.js* to render various types of visualizations.
-Furthermore, to meet the generalization requirement outlined in **R6**, we have developed a flexible and extensible framework compatible with custom DTMs and provides corresponding usage interfaces{https://github.com/an-luckydog/OrderVis}. This allows users to easily build their own OrderVis system and analyze order-based interpretability for specific tasks. With encapsulating the target model into a class, users can pass a model pointer into OrderVis and generate a model object for the order implication analysis.
+Furthermore, to meet the generalization requirement outlined in **R6**, we have developed a flexible and extensible framework compatible with custom DTMs and provides corresponding usage interfaces (https://github.com/an-luckydog/OrderVis). This allows users to easily build their own OrderVis system and analyze order-based interpretability for specific tasks. With encapsulating the target model into a class, users can pass a model pointer into OrderVis and generate a model object for the order implication analysis.
 
 ## Usage
 
