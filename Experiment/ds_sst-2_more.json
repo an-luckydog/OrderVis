@@ -1,0 +1,2270 @@
+[
+    {
+        "index": 0,
+        "input": "a stirring , funny and finally transporting re-imagining of beauty and the beast and 1930s horror films",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "input": "apparently reassembled from the cutting-room floor of any given daytime soap .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "input": "they presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science-fiction elements of bug-eyed monsters and futuristic women in skimpy clothes .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "input": "this is a visually stunning rumination on love , memory , history and the war between art and commerce .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "input": "jonathan parker 's bartleby should have been the be-all-end-all of the modern-office anomie films .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "input": "campanella gets the tone just right -- funny in the middle of sad in the middle of hopeful .",
+        "res": [
+            0.75,
+            0.25
+        ],
+        "reorderRes": [
+            [
+                0.75,
+                0.25
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "input": "béart and berling are both superb , while huppert ... is magnificent .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                1.0,
+                0.0
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "input": "a little less extreme than in the past , with longer exposition sequences between them , and with fewer gags to break the tedium .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "input": "a lyrical metaphor for cultural and personal self-discovery and a picaresque view of a little-remembered world .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "input": "the most repugnant adaptation of a classic text since roland joffé and demi moore 's the scarlet letter .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "input": "for something as splendid-looking as this particular film , the viewer expects something special but instead gets -lrb- sci-fi -rrb- rehash .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "input": "this is a stunning film , a one-of-a-kind tour de force .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                1.0,
+                0.0
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                1.0,
+                0.0
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "input": "may be more genial than ingenious , but it gets the job done .",
+        "res": [
+            0.6,
+            0.4
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "input": "there is a freedom to watching stunts that are this crude , this fast-paced and this insane .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "input": "if the tuxedo actually were a suit , it would fit chan like a $ 99 bargain-basement special .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "input": "as quiet , patient and tenacious as mr. lopez himself , who approaches his difficult , endless work with remarkable serenity and discipline .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "input": "final verdict : you 've seen it all before .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "input": "blue crush follows the formula , but throws in too many conflicts to keep the story compelling .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "input": "you ... get a sense of good intentions derailed by a failure to seek and strike just the right tone .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "input": "a slick , engrossing melodrama .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "input": "a wretched movie that reduces the second world war to one man 's quest to find an old flame .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.1,
+                0.9
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "input": "will undoubtedly play well in european markets , where mr. besson is a brand name , and in asia , where ms. shu is an institution , but american audiences will probably find it familiar and insufficiently cathartic .",
+        "res": [
+            0.5,
+            0.5
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "input": "lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 ### minutes past a child 's interest and an adult 's patience .",
+        "res": [
+            0.1,
+            0.9
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.1,
+                0.9
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "input": "the film is moody , oozing , chilling and heart-warming all at once ... a twisting , unpredictable , cat-and-mouse thriller .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "input": "a strong first act and absolutely , inescapably gorgeous , skyscraper-trapeze motion of the amazing spider-man .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "input": "a well-intentioned effort that 's still too burdened by the actor 's offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "input": "` what 's the russian word for wow !? '",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.5,
+                0.5
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "input": "otto-sallies has a real filmmaker 's eye .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "input": "with its parade of almost perpetually wasted characters ... margarita feels like a hazy high that takes too long to shake .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "input": "i could just feel the screenwriter at every moment ` tap , tap , tap , tap , tapping away ' on this screenplay .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "input": "overall , cletis tout is a winning comedy that excites the imagination and tickles the funny bone .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "input": "some body is a shaky , uncertain film that nevertheless touches a few raw nerves .",
+        "res": [
+            0.4,
+            0.6
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "input": "it 's a very sincere work , but it would be better as a diary or documentary .",
+        "res": [
+            0.6,
+            0.4
+        ],
+        "reorderRes": [
+            [
+                0.5,
+                0.5
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.5,
+                0.5
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "input": "while american adobo has its heart -lrb- and its palate -rrb- in the right place , its brain is a little scattered -- ditsy , even .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "input": "unfolds with such a wallop of you-are-there immediacy that when the bullets start to fly , your first instinct is to duck .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "input": "and it 's a lousy one at that .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "input": "it 's not too fast and not too slow .",
+        "res": [
+            0.75,
+            0.25
+        ],
+        "reorderRes": [
+            [
+                0.5,
+                0.5
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "input": "it 's an entertaining movie , and the effects , boosted to the size of a downtown hotel , will all but take you to outer space .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "input": "it is as uncompromising as it is nonjudgmental , and makes clear that a prostitute can be as lonely and needy as any of the clients .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "input": "despite some comic sparks , welcome to collinwood never catches fire .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "input": "though jackson does n't always succeed in integrating the characters in the foreground into the extraordinarily rich landscape , it must be said that he is an imaginative filmmaker who can see the forest for the trees .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "input": "not only does spider-man deliver , but i suspect it might deliver again and again .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "input": "it 's worth taking the kids to .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.5,
+                0.5
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "input": "without shakespeare 's eloquent language , the update is dreary and sluggish .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "input": "dense , exhilarating documentary .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "input": "... feels as if -lrb- there 's -rrb- a choke leash around your neck so director nick cassavetes can give it a good , hard yank whenever he wants you to feel something .",
+        "res": [
+            0.1,
+            0.9
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.1,
+                0.9
+            ],
+            [
+                0.1,
+                0.9
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "input": "methodical , measured , and gently tedious in its comedy , secret ballot is a purposefully reductive movie -- which may be why it 's so successful at lodging itself in the brain .",
+        "res": [
+            0.6,
+            0.4
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "input": "though a touch too arthouse 101 ### in its poetic symbolism , heaven proves to be a good match of the sensibilities of two directors .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "input": "a metaphor for a modern-day urban china searching for its identity .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "input": "it 's a square , sentimental drama that satisfies , as comfort food often can .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "input": "the wonderfully lush morvern callar is pure punk existentialism , and ms. ramsay and her co-writer , liana dognini , have dramatized the alan warner novel , which itself felt like an answer to irvine welsh 's book trainspotting .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "input": "admirers of director abel ferrara may be relieved that his latest feature , r xmas , marks a modest if encouraging return to form .",
+        "res": [
+            0.7,
+            0.3
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "input": "not once in the rush to save the day did i become very involved in the proceedings ; to me , it was just a matter of ` eh . '",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "input": "an ugly-duckling tale so hideously and clumsily told it feels accidental .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "input": "becomes a bit of a mishmash : a tearjerker that does n't and a thriller that wo n't .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.25,
+                0.75
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "input": "this is a very ambitious project for a fairly inexperienced filmmaker , but good actors , good poetry and good music help sustain it .",
+        "res": [
+            0.75,
+            0.25
+        ],
+        "reorderRes": [
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "input": "more successful at relating history than in creating an emotionally complex , dramatically satisfying heroine",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.4,
+                0.6
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "input": "cho 's timing is priceless .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                1.0,
+                0.0
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "input": "there 's something to be said for a studio-produced film that never bothers to hand viewers a suitcase full of easy answers .",
+        "res": [
+            0.6,
+            0.4
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.4,
+                0.6
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "input": "what elevates the movie above the run-of-the-mill singles blender is its surreal sense of humor and technological finish .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "input": "nicholson 's understated performance is wonderful .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "input": "the filmmakers know how to please the eye , but it is not always the prettiest pictures that tell the best story .",
+        "res": [
+            0.5,
+            0.5
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "input": "it 's unfortunate that wallace , who wrote gibson 's braveheart as well as the recent pearl harbor , has such an irrepressible passion for sappy situations and dialogue .",
+        "res": [
+            0.2,
+            0.8
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.2,
+                0.8
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "input": "jackson shamefully strolls through this mess with a smug grin , inexplicably wearing a kilt and carrying a bag of golf clubs over one shoulder .",
+        "res": [
+            0.1,
+            0.9
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "input": "... a fascinating curiosity piece -- fascinating , that is , for about ten minutes .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.6,
+                0.4
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.4,
+                0.6
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "input": "this bond film goes off the beaten path , not necessarily for the better .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "input": "a sham construct based on theory , sleight-of-hand , and ill-wrought hypothesis .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ],
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "input": "isabelle huppert excels as the enigmatic mika and anna mouglalis is a stunning new young talent in one of chabrol 's most intense psychological mysteries .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "input": "like its parade of predecessors , this halloween is a gory slash-fest .",
+        "res": [
+            0.3,
+            0.7
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "input": "perhaps the best sports movie i 've ever seen .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "input": "ou 've got to love a disney pic with as little cleavage as this one has , and a heroine as feisty and principled as jane .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.75,
+                0.25
+            ],
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "input": "this is a gorgeous film - vivid with color , music and life .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "input": "playing a role of almost bergmanesque intensity ... bisset is both convincing and radiant .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.9,
+                0.1
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "input": "it treats ana 's journey with honesty that is tragically rare in the depiction of young women in film .",
+        "res": [
+            0.9,
+            0.1
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "input": "ambitious , unsettling psychodrama that takes full , chilling advantage of its rough-around-the-edges , low-budget constraints .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ],
+            [
+                0.3,
+                0.7
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "input": "the woodman seems to have directly influenced this girl-meets-girl love story , but even more reassuring is how its makers actually seem to understand what made allen 's romantic comedies so pertinent and enduring .",
+        "res": [
+            0.8,
+            0.2
+        ],
+        "reorderRes": [
+            [
+                0.7,
+                0.3
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.9,
+                0.1
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ],
+            [
+                0.8,
+                0.2
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "input": "i could n't recommend this film more .",
+        "res": [
+            1.0,
+            0.0
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "input": "an inexperienced director , mehta has much to learn .",
+        "res": [
+            0.0,
+            1.0
+        ],
+        "reorderRes": [
+            [
+                0.2,
+                0.8
+            ]
+        ]
+    }
+]
