@@ -126,10 +126,10 @@ The code is available under browser side branch https://github.com/505025234/Ord
 
   - 1.GetInput will communicate with the machine learning side and call ReorderByGroup, GetDiffer, GetPartner. It will graphically display the interpretable information of the DTM.  
   - 2.DragData will be called and communicate with the machine learning side when end-users interact with the system by dragging components or tokens. DragData will display predicted values of reordered inputs.
+
 |            ![image](./Figures/generalizationProcedure.png)             |
 | :--------------------------------------------------------------------: |
 |                  Fig. 4 system logic flow implementation               |
-    **Figure 1.** Temporal importance under multi-step perturbations on IMDB dataset.
 
 ## Experiment
 
@@ -138,6 +138,7 @@ The code is available under browser side branch https://github.com/505025234/Ord
 |                                 ![image](./Figures/MultStepForIMDB.png)                                  |
 | :------------------------------------------------------------------------------------------------------: |
 |                  Fig. 5 Temporal importance under multi-step perturbations on IMDB dataset               |
+
 |                                 ![image](./Figures/MultStepForSST.png)                                  |
 | :------------------------------------------------------------------------------------------------------:|
 |                  Fig. 6 Temporal importance under multi-step perturbations on SST dataset               |
