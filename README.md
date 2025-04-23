@@ -34,17 +34,17 @@ The effectiveness of OrderVis is evaluated on public NLP datasets through compre
 
 ### System Overview
 
-|  Fig. 1: Workflow of *OrderVis*  |
-| :------------------------------: |
 | ![image](./Figures/workflow.png) |
+| :------------------------------: |
+|  Fig. 1: Workflow of *OrderVis*  |
 
 To address the identified design requirements, this work proposes and implements *OrderVis*, a visual and interactive system for analyzing order-based text adversarial attacks. The overall workflow of OrderVis is demonstrated as Fig. 1, which is composed of three progressive modules: reordering engine, metric computation, and visualization display.The *reordering engine* is responsible for simulating reordering operations at both the word level (①) and sentence (②) level (**R1**), across different perturbation magnitudes (e.g., *1-*, *2-*, *3-*, or *n-*step reordering) (**R2**). These reordered inputs are then fed into the target DTMs alongside the original text.The output of the DTMs is compared with the original, unperturbed predictions to compute differences (*Diff Computing*). The pairwise difference results across numerous input variations are aggregated into *couple importances* (*cImps*), which serve as raw input for the *metric computation* module.In the metric computation, a genetic algorithm (GA)-based optimization (③) is applied to refine the *cImps* (**R5**). The optimized *cImps* are then used in two ways: to generate *ranked cImps* for further display and to compute *position importances* (*pImps*) (④) (**R3**).The sentence-level components of the computed *pImps* (*s-pImps*) are further used for *training tracing*(⑤) to extract *training order patterns* (**R4**).Finally, the ranked *cImps*, *pImps*, and training order patterns serve as the fundamental data sources for the *visualization display* module, which is responsible for designing the system views (⑥) (***R6***) and rendering the final results.
 
 ### Visualization Design
 
-|  Fig. 2: Overview of *OrderVis*  |
-| :------------------------------: |
 | ![image](./Figures/overview.png) |
+| :------------------------------: |
+|  Fig. 2: Overview of *OrderVis*  |
 
 We designed six distinct views in OrderVis to systematically analyze the Order-based Text Adversarial Attacks (O-TAA): (A) Control Panel, (B) Word-level Interaction View, (C) Sentence-level Interaction View, (D) Order-based Perturbation Analytics, (E) Training Order Pattern View, and (F) Multiple-step Reordering Lists, as shown in Fig. 2.
 
@@ -78,9 +78,9 @@ To clearly illustrate the impact of order implication during model training and 
 
 This view is composed of two concentric polyline rings, where each node on the polylines represents the *s-pImp* value at a corresponding position. The farther a node is from the center, the larger its *s-pImp* value, indicating a higher sensitivity to order-based perturbations.The *outer polyline* visualizes the *T-Pattern*, a sequence of position-wise *s-pImp* values computed from the training dataset using Algorithm in Fig. 3. This sequence helps users identify positions in the training data that are more vulnerable to order perturbations. The *inner polyline* represents the *s-pImp* sequence of the currently analyzed input text, allowing it (the frame at inner ring) to be directly compared and mapped to the outer training pattern (the frame at outer ring). This mapping facilitates the generation of order-based adversarial training samples by aligning sensitive positions in the current input with known order weaknesses in the training data. In detail, users can select a specific region of the inner sequence and click the *Trace* button. OrderVis will then trace the selected region to the most similar sub-sequence within the outer *T-Pattern*. This mapping provides actionable insight for the targeted transformation of the input sample, enabling the user to generate order-based adversarial training samples that can be used to improve the robustness of the target DTM.
 
-| Fig. 3 Algorithm1: Construction of T-Pattern from s-pImps |
-| :-------------------------------------------------------: |
 |            ![image](./Figures/algorithm1.png)             |
+| :-------------------------------------------------------: |
+| Fig. 3 Algorithm1: Construction of T-Pattern from s-pImps |
 
 #### Multiple-step Reordering Lists
 
@@ -113,7 +113,6 @@ The code is available under browser side branch https://github.com/505025234/Ord
   - 3.Interface getPredict is set to provide end-users with predicted values of reordered inputs.  
   - 4.If you want to use our system to trace training data, it is essential to pre-processing your data. You should use interface ReadFile to import your model and read your data into cash. Details of usage will be shown in maching learning branch.  
     ![image](https://github.com/505025234/OrderVis/blob/main/interFace.png)
-
 ### Main function
 
 #### Machine learning side (back-end)
@@ -127,13 +126,22 @@ The code is available under browser side branch https://github.com/505025234/Ord
 
   - 1.GetInput will communicate with the machine learning side and call ReorderByGroup, GetDiffer, GetPartner. It will graphically display the interpretable information of the DTM.  
   - 2.DragData will be called and communicate with the machine learning side when end-users interact with the system by dragging components or tokens. DragData will display predicted values of reordered inputs.
-    ![image](./Figures/generalizationProcedure.png)
+|            ![image](./Figures/generalizationProcedure.png)             |
+| :--------------------------------------------------------------------: |
+|                  Fig. 4 system logic flow implementation               |
+    **Figure 1.** Temporal importance under multi-step perturbations on IMDB dataset.
 
 ## Experiment
 
   - Please refer to the 'Experiment' folder for the experimental materials related to the evaluation phase.
-  - The following figure shows the temporal importance of three models (LSTM, GPT, DeepSeek) under different step perturbations on two datasets (SST, IMDB).
-  ![image](./Figures/MultStepForIMDB.png)
-  ![image](./Figures/MultStepForSST.png)
+  - The following figure shows the temporal importance of three models (LSTM, GPT, DeepSeek) under different step perturbations on two datasets (IMDB, SST).
+|                                 ![image](./Figures/MultStepForIMDB.png)                                  |
+| :------------------------------------------------------------------------------------------------------: |
+|                  Fig. 5 Temporal importance under multi-step perturbations on IMDB dataset               |
+|                                 ![image](./Figures/MultStepForSST.png)                                  |
+| :------------------------------------------------------------------------------------------------------:|
+|                  Fig. 6 Temporal importance under multi-step perturbations on SST dataset               |
   - The temporal sensitivity variation of the model before and after adversarial training using the biased samples generated by OrderVis is shown in the following figure.
-  ![image](./Figures/Reduced.png)
+|                                 ![image](./Figures/Reduced.png)                                  |
+| :----------------------------------------------------------------------------------------------: |
+|                  Fig. 7 The reduction of model temporal sensitivity by OrderVis.png              |
